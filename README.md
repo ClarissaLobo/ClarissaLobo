@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 <body align="left">In addition to my technical background, I am deeply interested in Generative AI (GenAI) and machine learning models. I’m excited by the potential of these technologies to solve complex problems and drive innovation, and I am actively exploring ways to integrate AI-driven solutions into my work.</body>
 
 
-<h3 align="center">Fun Fact:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
