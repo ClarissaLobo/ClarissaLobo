@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Clarissa Lobo</h1>
+<h1 align="center">Hi, I'm Clarissa Lobo</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <body align="left"><ul> <li>I am a graduate student at State University of New York at Binghamton and a Software Engineer.</li>
 <li>I have worked as a Software Engineer with Infosys Limited in India</li>
